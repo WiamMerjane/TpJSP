@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/web/Mpob.jsp</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/web/Inscription.jsp</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/controlleur/updatemotdepasse.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/test/Test.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/services/ServiceClient.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/util/Util.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/controlleur/Verfier.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/entites/Client.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/web/Authentification.jsp</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/web/updatemotdepasse.jsp</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/controlleur/Mdob.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/services/sendMail.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/web/verifier.jsp</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/services/ServiceEmployer.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/controlleur/Inscription.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/web/welcome.jsp</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/entites/User.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/entites/Employer.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/controlleur/deconnexion.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/dao/IDao.java</file>
+            <file>file:/C:/Users/Cloud/Documents/NetBeansProjects/web/src/java/ma/projet/controlleur/Authentification.java</file>
+        </group>
+    </open-files>
+</project-private>
